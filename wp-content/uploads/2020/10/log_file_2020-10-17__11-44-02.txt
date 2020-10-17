@@ -1,0 +1,154 @@
+
+---Downloaded files---
+The import files for: Creative Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Users/pablofraustro/Sites/wordpress/wp-content/uploads/2020/10/demo-content-import-file_2020-10-17__11-44-02.xml
+Widget file = /Users/pablofraustro/Sites/wordpress/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-17__11-44-02.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Widget already exists
+Smart Recent Posts - Recent Posts - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Sidebar 2 : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Visual Editor - No Title - Imported
+Brankic Button Widget - No Title - Imported
+Visual Editor - No Title - Imported
+Brankic Icon Widget - No Title - Imported
+Visual Editor - No Title - Imported
+Brankic Button Widget - No Title - Imported
+Visual Editor - No Title - Imported
+Brankic Icon Widget - No Title - Imported
+
+Footer_box_1 : 
+
+Visual Editor - No Title - Imported
+
+Footer_box_2 : 
+
+Brankic Button Widget - No Title - Imported
+
+2nd_Row_Footer_box_1 : 
+
+Visual Editor - No Title - Imported
+Brankic Icon Widget - No Title - Imported
+
+2nd_Row_Footer_box_2 : 
+
+Visual Editor - Contact - Imported
+
+2nd_Row_Footer_box_3 : 
+
+Navigation Menu - Navigation - Imported
+
+2nd_Row_Footer_box_4 : 
+
+Categories - Categoris - Imported
+
+Menu_Widget : 
+
+Brankic Icon Widget - No Title - Imported
+
+Mobile_Menu_Widget : 
+
+Visual Editor - No Title - Imported
+Brankic Icon Widget - No Title - Imported
+
+Extra_Menu_Widget_1 : 
+
+Visual Editor - No Title - Imported
+
+Extra_Menu_Widget_3 : 
+
+Brankic Button Widget - No Title - Imported
+
+Overlay_Menu_Widget : 
+
+Visual Editor - No Title - Imported
+Visual Editor - No Title - Imported
+Brankic Icon Widget - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
